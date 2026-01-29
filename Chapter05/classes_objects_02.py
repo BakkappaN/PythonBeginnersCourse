@@ -1,5 +1,5 @@
 # Import another python file & class
-from class_objects_01 import Car
+from Chapter05.classes_objects_01 import Car
 
 # Object 1 creation
 object1 = Car()
